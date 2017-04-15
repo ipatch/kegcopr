@@ -12,7 +12,8 @@ This app aims to be the frontend / interface to a kegerator that is running the 
 ## Build
 As of April 15th 2017, this project is a just a skeleton React Native project.
 
-## License
+## License and Copyright
+All code is offered under the MIT license, unless otherwise noted. Please see LICENSE.txt for the full license. All code and documentation are Copyright 2017 Chris Jones, unless otherwise noted.
 
 ## Contributing
 Contributions are more than welcome.  I definitely do not want to be Noah when it comes to this project, so feel free to shoot me an email at me@chrisrjones.com or send a pull request.
