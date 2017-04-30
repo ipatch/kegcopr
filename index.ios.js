@@ -17,7 +17,7 @@ export default class kegcopr extends Component {
     return (
       <View style={styles.container}>
         <Text style={styles.welcome}>
-          Welcome to React Native!
+          Welcome to Keg Cop R a React Native project!
         </Text>
         <Text style={styles.instructions}>
           To get started, edit index.ios.js
